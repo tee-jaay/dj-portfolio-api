@@ -24,7 +24,7 @@ SECRET_KEY = '7a+4q_e$ykw1yzwxznaf7uz2ce2c!3&56b&zaz+93octj6_b5_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["tjid.dev.api.wordpresscoder.website", "127.0.0.1"]
 
 # Application definition
 
